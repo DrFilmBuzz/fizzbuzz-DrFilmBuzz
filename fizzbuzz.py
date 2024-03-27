@@ -1,4 +1,5 @@
-# Fizzbuzz printing numbers 1 to 100
+# Fizzbuzz Assignment by Wesley Gift
+# Printing numbers 1 to 100
 for num in range (1, 101):
     print(num)
     if num % 3 == 0 and num % 5 == 0:
